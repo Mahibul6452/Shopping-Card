@@ -1,0 +1,15 @@
+.congress {
+    text-align: center;
+    width: 500px;
+    margin: auto;
+}
+
+.congress h1 {
+    font-size: 70px;
+    color: #ff3c00b0;
+    font-style: italic;
+}
+
+.congress p {
+    font-size: 33px;
+}
